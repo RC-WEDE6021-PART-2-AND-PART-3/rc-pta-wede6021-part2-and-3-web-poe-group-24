@@ -1,0 +1,5 @@
+Hoodie,500
+T-Shirt,250
+Jacket,800
+Sneakers,1200
+Cap,150
