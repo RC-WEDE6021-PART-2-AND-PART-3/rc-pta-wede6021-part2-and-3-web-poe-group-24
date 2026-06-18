@@ -9,46 +9,46 @@ This is a responsive website developed as part of a web development assignment. 
 The purpose of this project is to demonstrate skills in:
 
 HTML, CSS, JavaScript
-PHP (if applicable)
+PHP
 Form handling and validation
-Database connectivity (if applicable)
+Database connectivity 
 
  Features
 Home page with brand introduction
 Product/gallery page displaying items
 User registration system
 User login system
-Admin approval (if included)
+Admin approval 
 Responsive design for mobile and desktop
-Contact page (if included)
+Contact page 
 
  Technologies Used
 HTML5
-CSS3
+CSS
 JavaScript
 PHP
-MySQL (if database is used)
-XAMPP / WAMP (for local server testing)
+MySQL 
+XAMPP / WAMP 
 
  Installation & Setup
 
 Download or clone the project folder:
 
-git clone <repository-link>
+git clone rc-pta-wede6021-part2-and-3-web-poe-group-24/streetwear - Copy at main · RC-WEDE6021-PART-2-AND-PART-3/rc-pta-wede6021-part2-and-3-web-poe-group-24
 Move the project folder into your server directory:
 XAMPP: htdocsXAMP: www
 Start your local server:
 Open XAMPP and start Apache and MySQL
-Import the database (if applicable):
+Import the database 
 Open phpMyAdmin
 Create a new database
 Import the provided .sql file
 
 Run the project in your browser:
 
-http://localhost/your-folder-name/
+http://localhost/STREETWEAR - COPY/
 
-User Roles (if applicable)
+User Roles 
 Admin: Approves users, manages content
 User: Can register, log in, and browse products
 
@@ -65,7 +65,7 @@ project-folder/
 ├── database/
 └── README.md
 
-esting
+Testing
 Test registration form validation
 Test login functionality
 Check database connection
@@ -74,7 +74,7 @@ Ensure pages load correctly on different devices
  
  Known Issues
 Some features may not work without database setup
-Admin approval requires manual configuration (if applicable)
+Admin approval requires manual configuration
 
 
 Author
