@@ -1,0 +1,84 @@
+Project Title
+
+Streetwear Website
+
+Description
+
+This is a responsive website developed as part of a web development assignment. The website showcases a streetwear brand and includes features such as product display, user registration, login system, and basic navigation between pages.
+
+The purpose of this project is to demonstrate skills in:
+
+HTML, CSS, JavaScript
+PHP (if applicable)
+Form handling and validation
+Database connectivity (if applicable)
+
+ Features
+Home page with brand introduction
+Product/gallery page displaying items
+User registration system
+User login system
+Admin approval (if included)
+Responsive design for mobile and desktop
+Contact page (if included)
+
+ Technologies Used
+HTML5
+CSS3
+JavaScript
+PHP
+MySQL (if database is used)
+XAMPP / WAMP (for local server testing)
+
+ Installation & Setup
+
+Download or clone the project folder:
+
+git clone <repository-link>
+Move the project folder into your server directory:
+XAMPP: htdocsXAMP: www
+Start your local server:
+Open XAMPP and start Apache and MySQL
+Import the database (if applicable):
+Open phpMyAdmin
+Create a new database
+Import the provided .sql file
+
+Run the project in your browser:
+
+http://localhost/your-folder-name/
+
+User Roles (if applicable)
+Admin: Approves users, manages content
+User: Can register, log in, and browse products
+
+Folder Structure
+project-folder/
+│
+├── index.php
+├── login.php
+├── register.php
+├── admin.php
+├── css/
+├── js/
+├── images/
+├── database/
+└── README.md
+
+esting
+Test registration form validation
+Test login functionality
+Check database connection
+Ensure pages load correctly on different devices
+
+ 
+ Known Issues
+Some features may not work without database setup
+Admin approval requires manual configuration (if applicable)
+
+
+Author
+
+Name: FARANANI NETSHIRANDO
+Student Number: ST10443627
+Course: Web Development 
