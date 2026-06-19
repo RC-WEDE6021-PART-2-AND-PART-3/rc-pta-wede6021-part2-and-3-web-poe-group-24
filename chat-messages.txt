@@ -1,0 +1,20 @@
+[2026-05-04 04:47:44] ::1
+Email: user@example.com
+Message:
+ouuuu
+---
+[2026-05-04 04:49:28] ::1
+Email: user@example.com
+Message:
+mama
+---
+[2026-05-04 04:50:51] ::1
+Email: user@example.com
+Message:
+maremam
+---
+[2026-05-04 04:51:32] ::1
+Email: user@example.com
+Message:
+jfjfjfjf
+---

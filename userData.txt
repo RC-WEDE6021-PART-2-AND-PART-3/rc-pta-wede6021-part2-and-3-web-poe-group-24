@@ -1,0 +1,5 @@
+john@gmail.com,1234
+mary@gmail.com,1234
+mulalo@gmail.com,1234
+phathu@gmail.com,1234
+faranani@gmail.com,1234

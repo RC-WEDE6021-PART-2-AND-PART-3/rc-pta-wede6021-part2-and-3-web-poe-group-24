@@ -1,0 +1,24 @@
+Order: 2026-05-04 09:21:44
+Name: Marema Mulalo
+Email: mulmarema@gmail.com
+Address: sibasa , thohoyaondou 1407
+Items:
+- Denim Jacket x2 @ R95 each
+Total: R190
+
+Order: 2026-05-04 09:22:05
+Name: Marema Mulalo
+Email: mulmarema@gmail.com
+Address: sibasa, thohoyaondou 1407
+Items:
+- Denim Jacket x1 @ R95 each
+Total: R95
+
+Order: 2026-05-04 09:22:46
+Name: Marema Mulalo
+Email: mulmarema@gmail.com
+Address: sibasa, thohoyaondou 1407
+Items:
+- Street Cap x7 @ R25 each
+Total: R175
+
